@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Shubham Kumar
+
+## 🚀 Full Stack Developer & Blockchain Developer
+
+### 💻 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+
+### ⛓ Blockchain Development
+
+* Solidity
+* Rust
+
+### 🛠 Tools
+
+* Git
+* VS Code
+
+### 📚 Currently Learning
+
+* Web3
+* Smart Contracts
+* dApp Development
+
 
 <!--
 **shubhamontime/shubhamontime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
