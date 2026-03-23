@@ -1,4 +1,4 @@
-#👋 Hi, I'm Shubham
+👋 Hi, I'm Shubham
 
 I am currently in a learning phase and exploring the world of development.
 
